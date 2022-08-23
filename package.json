@@ -51,7 +51,7 @@
     "pino": "^8.4.1",
     "shelljs": "^0.8.5",
     "tle.js": "^4.7.1",
-    "tough-cookie": "^4.0.0"
+    "tough-cookie": "^4.1.0"
   },
   "devDependencies": {
     "eslint": "^8.22.0",
