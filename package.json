@@ -31,7 +31,7 @@
   "dependencies": {
     "blake3": "^2.1.7",
     "cron": "^3.1.7",
-    "fuzzball": "^2.1.2",
+    "fuzzball": "^2.2.2",
     "got": "^14.2.1",
     "ioredis": "^5.4.1",
     "koa": "^2.15.3",
